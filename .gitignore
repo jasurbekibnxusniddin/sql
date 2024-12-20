@@ -91,7 +91,6 @@ $RECYCLE.BIN/
 
 # Logs and databases
 *.log
-*.sql
 *.sqlite3
 
 # Temporary files
